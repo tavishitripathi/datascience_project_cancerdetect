@@ -1,1 +1,1 @@
-first step - eda second step - training the model
+first step – eda second step – training the model
